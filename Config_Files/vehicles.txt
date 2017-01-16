@@ -1,0 +1,7 @@
+# Test
+# name starting_point destination priority_vehicle dynamic_path
+v1 A F 0 0
+v2 A I 0 0
+v3 D I 1 0
+v4 D C 1 0
+v5 G C 0 0
